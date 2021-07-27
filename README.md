@@ -35,7 +35,7 @@ jupyter Boston_Airbnb.ipynb
 This will open the iPython Notebook software and project file in your browser.
 
 #### Data:
-The data used in this project was acquired from airbnb repo for Boston city using the following link.
+The data used in this project was acquired from airbnb repo for Boston city using the following link data@insideairbnb.com
 
 create a data directory containing the following required downloaded files from the above repo:
 
