@@ -46,20 +46,24 @@ reviews: Summarized reviews data for Boston city.
 ### Summary:
 In this project, we have analyzed Boston Airbnb data listings. Gathered Boston Airbnb listings, calendar_data and reviews_data from data@insideairbnb.com and analysed and cleaned. Used descriptive statistics and regression model(Multiple Linear Regression, Randon Forest Regression) and KMeans cluster to answer the following questions:
 
-1. Most expensive month to visit Boston Airbnb?
+1. Most expensive month to visit Boston?
+ 
 The most expensive month was Septemper month with $232.2 followed by October, November.
 March and February months was considerd as less expensive months.
 Price was spike during the month of September to November and again slightly high during the month of May.
 From June to August, avilability was stabilized.
 
 2. Most expensive neighbourhood in Boston?
+
 Harvard Square was the most expensive neighbourhood city with $359 near Boston Airbnb followed by Financial District.
 
-3. What are the top amenities people needs most?
+3. What are the top amenities people need?
+
 Top amenities that visitors would liked was wireless interent, followed by heating, kitchen...
 
-4. Which month do people like to visit Boston Airbnb(Based on review counts)?
-in the month of August, most of the visitors would like to visit Boston Airbnb followed July, June, May.
+4. Which month do people like to visit Boston (Based on review counts)?
+
+In the month of August, most of the visitors would like to visit Boston Airbnb followed July, June, May.
 Less crowded months would be January,February and December months.
 
 I found that the main drive for Airbnb prices were during peak months and how many people a listing can accomode. And also amenities sush as internet, tv, ac, heating... In order to get very good reviews from the visitors, it is very important to respond to their enquires. So, amenities are important. Location also very important inorder to book Airbnb.
