@@ -74,3 +74,5 @@ I also found that, Random Forest Regression is best algorithm to predict the ren
 Data was acquired from insideairbnb repo
 This project is part of Data scientist Nanodegree from udacity
 This work is licensed under a Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License. Please refer to Udacity Terms of Service for further information.
+
+## Please refere to the medium: https://medium.com/@nidhivinay24/an-insight-into-boston-airbnb-data-5c003f6dc6a4
